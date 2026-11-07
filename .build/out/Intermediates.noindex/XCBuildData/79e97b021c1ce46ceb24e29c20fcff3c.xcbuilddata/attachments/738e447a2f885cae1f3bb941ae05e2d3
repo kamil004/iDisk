@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/DumpDevices-p.build/Objects-normal/arm64/DumpDevices-primary.swiftconstvalues",
+    "dependencies" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/DumpDevices-p.build/Objects-normal/arm64/DumpDevices-primary.d",
+    "diagnostics" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/DumpDevices-p.build/Objects-normal/arm64/DumpDevices-primary.dia",
+    "emit-module-dependencies" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/DumpDevices-p.build/Objects-normal/arm64/DumpDevices-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/DumpDevices-p.build/Objects-normal/arm64/DumpDevices-primary-emit-module.dia",
+    "pch" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/DumpDevices-p.build/Objects-normal/arm64/DumpDevices-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/DumpDevices-p.build/Objects-normal/arm64/DumpDevices-primary.swiftdeps"
+  },
+  "/Users/kamil/Downloads/iDisk/iDisk/Sources/DumpDevices/main.swift" : {
+    "index-unit-output-path" : "/iDisk.build/Release/DumpDevices-p.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/DumpDevices-p.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/DumpDevices-p.build/Objects-normal/arm64/main.o"
+  }
+}

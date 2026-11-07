@@ -1,0 +1,59 @@
+{
+  "" : {
+    "diagnostics" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/CoreTests-primary.dia",
+    "emit-module-dependencies" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/CoreTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/CoreTests-primary-emit-module.dia",
+    "pch" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/CoreTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/CoreTests-primary.swiftdeps"
+  },
+  "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/DerivedSources/test_entry_point.swift" : {
+    "const-values" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/test_entry_point.swiftconstvalues",
+    "dependencies" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/test_entry_point.d",
+    "diagnostics" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/test_entry_point.dia",
+    "index-unit-output-path" : "/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "llvm-bc" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/test_entry_point.bc",
+    "object" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "swift-dependencies" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/test_entry_point.swiftdeps",
+    "swiftmodule" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/test_entry_point~partial.swiftmodule"
+  },
+  "/Users/kamil/Projekty Ai/iDisk/iDisk/Tests/CoreTests/BenchmarkRunnerTests.swift" : {
+    "const-values" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/BenchmarkRunnerTests.swiftconstvalues",
+    "dependencies" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/BenchmarkRunnerTests.d",
+    "diagnostics" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/BenchmarkRunnerTests.dia",
+    "index-unit-output-path" : "/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/BenchmarkRunnerTests.o",
+    "llvm-bc" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/BenchmarkRunnerTests.bc",
+    "object" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/BenchmarkRunnerTests.o",
+    "swift-dependencies" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/BenchmarkRunnerTests.swiftdeps",
+    "swiftmodule" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/BenchmarkRunnerTests~partial.swiftmodule"
+  },
+  "/Users/kamil/Projekty Ai/iDisk/iDisk/Tests/CoreTests/CapacityTesterTests.swift" : {
+    "const-values" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/CapacityTesterTests.swiftconstvalues",
+    "dependencies" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/CapacityTesterTests.d",
+    "diagnostics" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/CapacityTesterTests.dia",
+    "index-unit-output-path" : "/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/CapacityTesterTests.o",
+    "llvm-bc" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/CapacityTesterTests.bc",
+    "object" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/CapacityTesterTests.o",
+    "swift-dependencies" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/CapacityTesterTests.swiftdeps",
+    "swiftmodule" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/CapacityTesterTests~partial.swiftmodule"
+  },
+  "/Users/kamil/Projekty Ai/iDisk/iDisk/Tests/CoreTests/FormatterTests.swift" : {
+    "const-values" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/FormatterTests.swiftconstvalues",
+    "dependencies" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/FormatterTests.d",
+    "diagnostics" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/FormatterTests.dia",
+    "index-unit-output-path" : "/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/FormatterTests.o",
+    "llvm-bc" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/FormatterTests.bc",
+    "object" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/FormatterTests.o",
+    "swift-dependencies" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/FormatterTests.swiftdeps",
+    "swiftmodule" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/FormatterTests~partial.swiftmodule"
+  },
+  "/Users/kamil/Projekty Ai/iDisk/iDisk/Tests/CoreTests/SmartServiceParseTests.swift" : {
+    "const-values" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/SmartServiceParseTests.swiftconstvalues",
+    "dependencies" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/SmartServiceParseTests.d",
+    "diagnostics" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/SmartServiceParseTests.dia",
+    "index-unit-output-path" : "/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/SmartServiceParseTests.o",
+    "llvm-bc" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/SmartServiceParseTests.bc",
+    "object" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/SmartServiceParseTests.o",
+    "swift-dependencies" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/SmartServiceParseTests.swiftdeps",
+    "swiftmodule" : "/Users/kamil/Projekty Ai/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Debug/CoreTests-p.build/Objects-normal/arm64/SmartServiceParseTests~partial.swiftmodule"
+  }
+}

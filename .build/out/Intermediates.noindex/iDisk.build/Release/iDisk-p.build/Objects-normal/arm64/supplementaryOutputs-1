@@ -1,0 +1,11 @@
+{
+  "/Users/kamil/Downloads/iDisk/iDisk/Sources/iDisk/Views/BenchmarkView.swift" : {
+    "abi-baseline-json" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/iDisk-p.build/Objects-normal/arm64/iDisk.abi.json",
+    "const-values" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/iDisk-p.build/Objects-normal/arm64/iDisk-primary.swiftconstvalues",
+    "dependencies" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/iDisk-p.build/Objects-normal/arm64/iDisk-primary.d",
+    "diagnostics" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/iDisk-p.build/Objects-normal/arm64/iDisk-primary.dia",
+    "swiftdoc" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/iDisk-p.build/Objects-normal/arm64/iDisk.swiftdoc",
+    "swiftmodule" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/iDisk-p.build/Objects-normal/arm64/iDisk.swiftmodule",
+    "swiftsourceinfo" : "/Users/kamil/Downloads/iDisk/iDisk/.build/out/Intermediates.noindex/iDisk.build/Release/iDisk-p.build/Objects-normal/arm64/iDisk.swiftsourceinfo"
+  }
+}

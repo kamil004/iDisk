@@ -1,0 +1,24 @@
+# Build artifacts
+iDisk/.build/
+iDisk/*.app
+iDisk/*.dSYM
+iDisk/AppIcon.icns
+iDisk/*.o
+iDisk/*.swiftmodule
+iDisk/*.swiftdoc
+iDisk/*.abisupport
+
+# Xcode
+iDisk/*.xcodeproj/
+iDisk/*.xcworkspace/
+iDisk/xcuserdata/
+iDiskDerivedData/
+iDisk/.swiftpm/
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Swift Package Manager
+.packages
